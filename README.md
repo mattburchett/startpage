@@ -1,4 +1,4 @@
-startpage
-=========
+MattBurchett.com
+=============
 
-startpage for my web browsers, going to be hosted at start.mattburchett.com. Based off of http://github.com/mattburchett/MattBurchett.com
+I have forked the JupiterColony.com repository from Rikai. I am putting my own spin on things, and making it my own as a landing page for myself. 
